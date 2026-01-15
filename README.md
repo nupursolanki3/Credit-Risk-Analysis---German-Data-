@@ -3,6 +3,7 @@ Exploring how German borrowers apply for credit loans. This analysis is for lear
 
 # Dataset 
 Data consist of 1000 records of customer information with target variable.
+/
 Age
 Sex
 Job
